@@ -42,10 +42,7 @@ Jupyter Notebook
 📌 How to Use
 Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/Surajgupta5294/job-market-analysis.git
+git clone https://github.com/Surajgupta5294/Job-Market-Analysis-with-Python
 Navigate into the project directory:
 
 cd job-market-analysis
