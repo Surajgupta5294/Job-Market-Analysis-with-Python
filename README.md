@@ -1,5 +1,12 @@
 # Job-Market-Analysis-with-Python
 
+![Alt text](![image](https://github.com/user-attachments/assets/8c8ddca8-8597-45d5-aeda-42f704b1559f)
+
+![Alt text]![image](https://github.com/user-attachments/assets/72ebb304-16a1-43d1-bf71-7e70e8aec414)
+
+![Alt text]![image](https://github.com/user-attachments/assets/c1ce1296-a895-42d9-859e-b04170da7e38)
+
+![Alt text]![image](https://github.com/user-attachments/assets/c02c5a5a-5c40-4d73-8f5f-f563223ea5ce)
 
 
 This project provides insights into job listings using a dataset of job postings. It involves data cleaning, exploration, and visualization to understand job trends, in-demand skills, job locations, and more.
